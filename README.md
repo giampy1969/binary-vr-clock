@@ -1,5 +1,11 @@
 # binary-vr-clock
+
+[![View bvrclock on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/22514-bvrclock)
+
 Binary virtual reality clock
+
+Note: this should work on all versions with java machine until 23a. 
+I'll revise it at some point to make sure it works for later versions.
 
 Just type bvrclock at the command line to create and start this binary virtual reality clock.
 
